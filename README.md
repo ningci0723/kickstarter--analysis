@@ -63,7 +63,7 @@ The Challenge I met is how to use `COUNTIFS()` function to calculate the correct
 
 * According to the new sheet and line chart created, we can find that for "Play" subcategory, there are 534 projects having the goal of 1000 to 4999, which means that each of these 543 projects will need 1000 to 4999 to succeed. The amount range (1000 to 4999) of the goal has highest total number of projects compared to others. The successful rate is 76% with the goal less than 1000, which is the highest successful rate compared to other goals. When the goal is 45000 to 49999, the failed rate is 100%, which is the highest one. There are no trends for the successful rate and failed rate based on goals for "Play" subcategory.
 
-### All Calculations used for Results part can be found in the “Outcomes based on Launch Date” sheet and "Outcomes Based on Goals" sheet in the[Kickstarter_Challenge](https://github.com/ningci0723/kickstarter--analysis/blob/main/Kickstarter_Challenge.xlsx) file.
+### All Calculations used for Results part can be found in the “Outcomes based on Launch Date” sheet and "Outcomes Based on Goals" sheet in the [Kickstarter_Challenge](https://github.com/ningci0723/kickstarter--analysis/blob/main/Kickstarter_Challenge.xlsx) file.
 
 ### What are some limitations of this dataset?
 
